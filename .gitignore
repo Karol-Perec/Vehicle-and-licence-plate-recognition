@@ -1,0 +1,8 @@
+venv/*
+__pycache__
+output
+data
+main_alpha.py
+/models/cars/*
+/models/chars/*
+/models/plates/*
