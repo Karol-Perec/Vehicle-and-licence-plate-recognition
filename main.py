@@ -17,7 +17,6 @@ def main(args=None):
     video = cv2.VideoCapture(sys.argv[1])
 
     while True:
-        i += 1
         start_frame_time = time.time()
         is_successful, img = video.read()
         if not is_successful:
