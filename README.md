@@ -1,6 +1,6 @@
 ## Demo
 
-https://www.youtube.com/watch?v=nqULfw8zkrM&list=UUyupUACMD0l-NnRTdHezHfA&index=2
+https://www.youtube.com/watch?list=UUyupUACMD0l-NnRTdHezHfA&v=nqULfw8zkrM&feature=youtu.be
 
 ## How to run
 
